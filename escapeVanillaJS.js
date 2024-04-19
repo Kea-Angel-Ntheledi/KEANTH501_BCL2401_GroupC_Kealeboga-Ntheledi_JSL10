@@ -51,21 +51,23 @@ document.addEventListener("DOMContentLoaded", () => {
   });
 });
 
+//this function aims to find the most recent book among the provided array of books.
 function findMostRecentBook(books) {
   // 🪲 Bug: Logic error
-  return books.reduce((mostRecent, book) =>
+  return books.reduce((mostRecent, book) =>   //the reduce() function itterates over each book in the arrays.
     new Date(book.published) > new Date(mostRecent.published)
       ? book
       : mostRecent
   );
 }
-
+//this function aims to find the intersection of  two seets, seA and setB.
 function findIntersection(setA, setB) {
-  // 🪲 Bug: Incorrect logic
+  // this function filters elements frrom setA based on whether they exist in setB
   const intersection = new Set([...setA].filter((elem) => setB.has(elem)));
   return intersection;
 }
 
+//this asynchronous function simulates navigating through a ladyrinth.
 async function navigateLabyrinth(directions) {
   for (let direction of directions) {
     // 🪲 Bug: No delay
