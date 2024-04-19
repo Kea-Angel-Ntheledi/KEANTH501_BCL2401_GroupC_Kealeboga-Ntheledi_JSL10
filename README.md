@@ -1,5 +1,34 @@
 # [JSL10] Submission: Escaping Vanilla JS: Abstraction Challenge
 
+## Project Overview
+
+
+##
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 You will:
 1. Use the provided Starter Code Repository: https://github.com/CodeSpace-Academy/Module_10_StudentNo_Classcode_Group_Name-Surname_JSL10
 2. Code your solution.
