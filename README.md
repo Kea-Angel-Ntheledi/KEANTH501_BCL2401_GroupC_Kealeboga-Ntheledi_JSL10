@@ -1,28 +1,34 @@
 # [JSL10] Submission: Escaping Vanilla JS: Abstraction Challenge
 
 ## Project overview:
-
+The "Escape Vanilla JS Challenge" is an interactive web-based project that focuses on debugging skills, problem-solving, and abstract thinking. The project takes users through three themed "rooms," each with a unique JavaScript-based challenge. The ultimate goal is to help users master advanced concepts in Vanilla JavaScript, preparing them for learning React and other frameworks.
 
 ## Elements included:
-
+JavaScript Concepts: The project covers a wide range of topics, including iterators and generators, built-in objects, working with maps and sets, regular expressions, manipulating dates and times, JSON, the console API, and transitioning from Vanilla JavaScript to React.
+Interactive Challenges: Users navigate through a series of challenges designed to test their debugging skills and problem-solving abilities. Each challenge requires the user to fix code snippets or correct logical errors to proceed to the next room.
+Thematic Structure: The project is structured like an escape room, where each "room" presents a unique theme and challenge. This structure adds an element of fun and engagement to the learning experience.
 
 ## Areas of mastery:
-
+Debugging skills, 
+Advanced JavaScript concepts,
+Problem solving
 
 ## Challenges:
-
+Understanding Advanced Concepts: Topics like iterators, generators, and asynchronous programming can be challenging to grasp without prior experience.
+Understanding Advanced Concepts: Topics like iterators, generators, and asynchronous programming can be challenging to grasp without prior experience.
 
 ## Areas of improvement:
-
+Advanced guidance,
+Expanded explainations, exampkes and tutorials.
 
 ## Overall learning experience:
+The "Escape Vanilla JS Challenge" offers a fun and interactive way to learn and improve JavaScript skills. The escape room structure keeps users engaged, while the variety of challenges ensures a comprehensive learning experience. Despite some challenges with complexity and advanced concepts, the project provides a solid foundation for those looking to transition from Vanilla JavaScript to React and other advanced frameworks. With additional guidance and expanded tutorials, the learning experience could be further enhanced, making it suitable for a broader range of users.
 
 
 
 
 
-
-
+# Instructions on how to go about to complete the project:
 
 You will:
 1. Use the provided Starter Code Repository: https://github.com/CodeSpace-Academy/Module_10_StudentNo_Classcode_Group_Name-Surname_JSL10
